@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Sidrian
 
-<!--
-**sidrianchan/Sidrianchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Data Science candidate at Queen Mary University of London (graduating September 2026), building on a BSc Computer Science (2:1) from the University of Surrey.
 
-Here are some ideas to get you started:
+Currently researching Graph Neural Networks for my dissertation. My project work spans NLP, network analysis, and applied deep learning, including a sentiment classification pipeline achieving macro-F1 of 0.95 using models from TF-IDF+SVM through to BERT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside academia, I designed and deployed an autonomous trading system in Python, backtested across 14 years of market data with a full production pipeline including risk management, position sizing and automated rebalancing.
+
+**Currently exploring:** Graph Neural Networks, applied ML systems, production-grade data pipelines
+
+**Skills:** Python · PyTorch · TensorFlow · scikit-learn · SQL · Git
+
+📍 London, UK | Right to work in the UK, no sponsorship required
+🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
